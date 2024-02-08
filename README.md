@@ -1,0 +1,2 @@
+# ohjelmistoarkkitehtuuritDemo3
+2024 ohjelmistoarkkitehtuurikurssin demo 3 koodaustehtävät

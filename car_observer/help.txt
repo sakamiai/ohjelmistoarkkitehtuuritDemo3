@@ -1,0 +1,13 @@
+# Riippuvuudet: node, typescript, webpack, python.
+
+# Käynnistä typescript-kääntäjä:
+
+npx tsc -w 
+
+# Eri komentoriviin käynnistä webpack-kääntäjä:
+
+npx webpack --watch
+
+# Eri komentoriviin käynnistä serveri (tässä tapauksessa pyyttoni servu):
+
+py -m http.server 8001
